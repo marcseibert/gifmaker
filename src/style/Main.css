@@ -1,0 +1,13 @@
+body, html {
+    margin: 0px;
+    background-color: white;
+}
+
+.boxHover {
+    color: white;
+    transition: color linear 1s;
+}
+
+.boxHover:hover {
+    color: gray;
+}
