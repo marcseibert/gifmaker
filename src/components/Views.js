@@ -168,8 +168,7 @@ const StartViewComponent = ({targetEditPage, inFileDialog=false, onOpenProjectCo
                     width="medium"
                     size="large"
                 >
-                    Create, edit and merge gifs with ease.  
-                    A small tool created for the coding challenge of tender frame.
+                    Create, edit and merge gifs with ease.
                 </Text>
             </Box>
             <Box
